@@ -1,3 +1,9 @@
 [submodule "gophermaps-backend"]
 	path = gophermaps-backend
 	url = https://github.com/ryan-roche/gophermaps-backend.git
+[submodule "gophermaps-ios"]
+	path = gophermaps-ios
+	url = https://github.com/ryan-roche/gophermaps-ios.git
+[submodule "gophermaps-droid"]
+	path = gophermaps-droid
+	url = https://github.com/ryan-roche/gophermaps-droid.git
