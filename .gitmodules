@@ -1,0 +1,3 @@
+[submodule "gophermaps-backend"]
+	path = gophermaps-backend
+	url = https://github.com/ryan-roche/gophermaps-backend.git
