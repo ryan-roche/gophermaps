@@ -7,3 +7,6 @@
 [submodule "gophermaps-droid"]
 	path = gophermaps-droid
 	url = https://github.com/ryan-roche/gophermaps-droid.git
+[submodule "gophermaps-data"]
+	path = gophermaps-data
+	url = https://github.com/ryan-roche/gophermaps-data.git
