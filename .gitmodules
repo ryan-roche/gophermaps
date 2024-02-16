@@ -7,3 +7,6 @@
 [submodule "gophermaps-data"]
 	path = gophermaps-data
 	url = https://github.com/ryan-roche/gophermaps-data.git
+[submodule "gophermaps-backend"]
+	path = gophermaps-backend
+	url = https://github.com/ryan-roche/gophermaps-backend
